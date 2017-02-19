@@ -1,13 +1,14 @@
 {
   "name": "javascript-utilities",
   "version": "0.0.1",
-  "description": "JavaScript Utilities",
+  "description": "JavaScript utility library",
   "scripts": {
     "test": "mocha --reporter spec"
   },
   "author": "Gerald Haagsma",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/ghaagsma/javascript-utilities.git"
   },
   "license": "ISC",
   "devDependencies": {
